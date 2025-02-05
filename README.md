@@ -14,8 +14,6 @@ link to website: https://alexchoi330.github.io/
 
 
 To Do:
-- slow down the animation on the right side tab bar
-- change the main picture
 - change the My Portfolio thumbnail pictures to project screen shots or samples.
-- create a "submit" button for "contact me" page
-- find a way to make it work aka "if you fill in the info and press the submit button then it sends me the email" or sends the email to wherever
+- find a way to make the submit button work aka "if you fill in the info and press the submit button then it sends me the email" or sends the email to wherever
+- animation of the icon on the right side tab bar
